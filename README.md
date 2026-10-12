@@ -22,6 +22,6 @@ Hi 👋 I am gggff123.<br>✨Working on j-bot.<br>🐲Worked as a dino now as a 
 ![](https://github-contributor-stats.vercel.app/api?username=gggff123&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=gggff123&icon=3&color=7)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=gggff123&icon=3&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
