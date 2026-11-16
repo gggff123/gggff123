@@ -1,9 +1,10 @@
 # Hi 👋! My name is gggff123 and I'm from India!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gggff123&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gggff123&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Most used languages" />
+  
+  <img src="https://camo.githubusercontent.com/ad2370f9eeb9d3cbf3f72a3d418b9224b57912b0e09d313b53a82330154638ed/68747470733a2f2f6769746875622d726561646d652d73746174732e7368696f6e2e6465762f6170693f757365726e616d653d6767676666313233267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d66616c7365" height="150" alt="Most used languages" />
 </div>
+<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js"></script>
 
 <br/>
 
