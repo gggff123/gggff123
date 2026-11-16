@@ -1,54 +1,52 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is gggff123 and im from India!</h2>
+# Hi 👋! My name is gggff123 and I'm from India!
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/gggff123/gggff123/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/gggff123/gggff123/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gggff123&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gggff123&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Most used languages" />
 </div>
 
-###
+<br/>
 
-<img data-importer="image" align="right" height="150" src="https://www.image2url.com/r2/default/gifs/1794731864414-66fe7813-5f69-45d0-b169-19d094a0491c.gif"  />
+<img align="right" height="150" src="https://www.image2url.com/r2/default/gifs/1794731864414-66fe7813-5f69-45d0-b169-19d094a0491c.gif" alt="Dragon GIF" />
 
-###
+### 🛠️ Technologies
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="Chrome" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="Photoshop" />
 </div>
 
-###
+<br/>
 
-<div data-importer="socials" align="left">
-  <a href="https://discord.gg/__developer.__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+### 🌐 Connect with me
+
+<div align="left">
+  <a href="https://discord.com/users/1510492939971985488">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
   </a>
 </div>
 
-###
+<br clear="both"/>
 
-<br clear="both">
+### 🐍 Contribution Snake
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/gggff123/gggff123/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gggff123/gggff123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-###
+<br/>
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=gggff123.gggff123&"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gggff123.gggff123" alt="Profile views" />
 </div>
-
-###
